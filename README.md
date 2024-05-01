@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mattia
 #### Design and Development
-![Design and Development](mattialavai@gmail.com.jpg)
+![Design and Development](mattialavai@gmail.com.jpg
 )
 
 I'm a passionate software developer with a focus on web development. I love building beautiful and functional websites using HTML, CSS, and JavaScript. Constantly learning and exploring new technologies to enhance my skills and create better user experiences.
