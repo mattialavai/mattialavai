@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Mattia
 #### Design and Development
-![Design and Development](https://pbs.twimg.com/profile_banners/1566718721002987520/1714527700/600x200)
+![Design and Development](mattialavai@gmail.com.jpg)
+)
 
 I'm a passionate software developer with a focus on web development. I love building beautiful and functional websites using HTML, CSS, and JavaScript. Constantly learning and exploring new technologies to enhance my skills and create better user experiences.
 
