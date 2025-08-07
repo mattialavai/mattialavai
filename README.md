@@ -4,7 +4,7 @@
 # Hi there 👋, I'm Mattia
 I’m a passionate frontend developer with experience in creating responsive websites and apps using HTML, CSS, and JavaScript. My skills in UI/UX design help me deliver visually appealing and user-friendly interfaces. I also work with WordPress, providing clients with flexible and customizable solutions for their online presence.
 
-🚀** Skills & Experience**
+**🚀 Skills & Experience**
   
   🎨 UX/UI Design
   
